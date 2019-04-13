@@ -1,8 +1,8 @@
-# Galaxy Network MAB
+# WindscaleOS
 
-## What is "Galaxy Network MAB" ?
+## What is "WindscaleOS" ?
 
-   Galaxy Network MAB is a Discord bot I've developed from the ground up. 
+   WindscaleOS is a Discord bot I've developed for a group. 
    While I'm fairly new to Javascript the bot has some incredible functionality.
    That being said, making bug reports is extremely helpful!
     
@@ -34,11 +34,11 @@ The code will not be published so that nobody steals it. Otherwise you can see t
 
 ## Useful Links
 
-### Galaxy Network Discord:
+### Windscale Discord:
 
- [Click me for the discord!](https://discord.gg/ySEAt2M)
+ [Click me for the discord!](https://discord.gg/D46nwrg)
 
 
 ### Developer Page:
-[Click me for the Developer Page!](trello.com/b/FyoC8P89/galaxy-network-mab)
+[Click me for the Developer Page!](https://trello.com/b/Fe3H3wqe/windscaleos)
 
