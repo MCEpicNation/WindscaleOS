@@ -27,8 +27,6 @@
  ![VersionInfo](https://img.shields.io/badge/Version-2.0-orange.svg?style=for-the-badge)
 
  
- ![CopyrightPicture](https://static.copyrighted.com/badges/125x25/03_2_2x.png)
- 
 ## Where's the code?!
 The code will not be published so that nobody steals it. Otherwise you can see the bot work in our discord.
 
